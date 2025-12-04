@@ -1,3 +1,4 @@
 Sanjeev Kumar
 St ID: 270829625
-MSE
+Email-id: shineinthesky6@gmail.com
+Course:MSE
